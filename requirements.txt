@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+matplotlib
+open3d==0.14.1
+pybullet==2.7.9
+tqdm
+trimesh
+urdfpy
+cython
+scikit-image
+pykdtree
+setuptools==69.5.1
+pyyaml
